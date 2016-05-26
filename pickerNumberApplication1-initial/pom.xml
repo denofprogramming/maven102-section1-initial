@@ -4,6 +4,7 @@
 
 	<groupId>com.denofprogramming</groupId>
 	<artifactId>pickNumberApplication1-initial</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Pick a Number Application Initial</name>
@@ -43,5 +44,4 @@
 		</dependency>
 	</dependencies>
 	
-	<version>0.0.1-SNAPSHOT</version>
 </project>
